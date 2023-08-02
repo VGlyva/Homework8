@@ -15,6 +15,7 @@ public class Main {
         double[] fractional = {1.57, 7.654, 9.986};
         long[] large = {5, 7, 8};
         System.out.println();
+        System.out.println();
     }
 
     public static void task2() {
